@@ -3,6 +3,7 @@ This is my ongoing exercism.io work. I like the idea of the site quite a bit -- 
 COMPLETED
 - hamming
 - gigasecond
+- RNA transcription
 
 -----
 
