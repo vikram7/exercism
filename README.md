@@ -1,5 +1,9 @@
 This is my ongoing exercism.io work. I like the idea of the site quite a bit -- submit your code to be analyzed and commented on by other programmers.
 
+COMPLETED
+- hamming
+- gigasecond
+
 -----
 
 Getting Set Up
