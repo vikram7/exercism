@@ -5,6 +5,8 @@ COMPLETED
 - gigasecond
 - RNA transcription
 - raindrops
+- difference-of-squares
+- roman-numerals
 
 
 -----
